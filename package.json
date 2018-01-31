@@ -1,0 +1,30 @@
+{
+  "name": "geo-loader",
+  "version": "0.0.1",
+  "description": "Geo-Loader is a Node library that makes working with GeoServer/OGC protocols easier.",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbennett10/geo-loader.git"
+  },
+  "keywords": [
+    "node",
+    "geoserver",
+    "ogc",
+    "leaflet",
+    "openlayers",
+    "cesium",
+    "esri",
+    "arcgis",
+    "geoserver"
+  ],
+  "author": "Zachary Bennett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zbennett10/geo-loader/issues"
+  },
+  "homepage": "https://github.com/zbennett10/geo-loader#readme"
+}
